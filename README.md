@@ -1,1 +1,1 @@
-# authentication-authorization-and-JWT
+# authentication/authorization and JWT
