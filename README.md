@@ -1,9 +1,9 @@
-# authentication/authorization and JWT
+# Authentication/Authorization and JWT
 
 ## Authentication vs Authorization
 
-
 ### Authentication
+
 
 
 ### Authorization
