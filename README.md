@@ -1,4 +1,4 @@
-# Authentication/Authorization and JWT
+# JWT and Authentication/Authorization 
 
 ## Authentication strategies (Using token)
 
