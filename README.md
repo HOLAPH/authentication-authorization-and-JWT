@@ -5,7 +5,7 @@
 
 ### Authentication
 
-image.png
+
 
 ### Authorization
 
